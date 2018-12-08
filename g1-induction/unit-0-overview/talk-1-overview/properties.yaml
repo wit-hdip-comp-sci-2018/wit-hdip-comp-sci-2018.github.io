@@ -1,1 +1,3 @@
 faPanelicon : fas fa-th fa-10x
+#faPanelicon    : fas fa-users fa-10x
+faColour       : "#aa00ff"
