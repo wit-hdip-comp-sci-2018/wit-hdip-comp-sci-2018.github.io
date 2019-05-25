@@ -1,0 +1,21 @@
+
+
+
+  {
+  
+  
+    "properties" : {"highlightstyle":"railscasts","courseurl":"https://wit-hdip-comp-sci-2018.github.io/g1-induction/","parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faPanelicon":"fas fa-map","faColour":"#00897B","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=118143","youtube":"https://www.youtube.com/channel/UCsnLD7zFRgTruE5ua7boYkA/featured","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>."},
+  
+  "type" : "course",
+  "title" : " Programme Overview ",
+  "img" : "",
+  "videoid" : "",
+  "objectives" : "<p>structure · philosophy · materials · module introductions</p>",
+  "folder" : "g1-induction",
+  "link" : "g1-induction/index.html",
+  "los": [
+   ]
+,
+  "topics" : [  ]
+  }
+
